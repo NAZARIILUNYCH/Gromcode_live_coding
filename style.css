@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+}
+
+.articles-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.article {
+  flex: 1 0 300px;
+  padding: 16px;
+  margin: 8px;
+  background: bisque;
+}
