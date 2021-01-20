@@ -1,3 +1,3 @@
-const mult = 5 * 32;
+const sum = 3 + 5;
 
-console.log(mult);
+console.log(sum);
